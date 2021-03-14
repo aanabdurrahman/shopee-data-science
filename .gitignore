@@ -1,2 +1,8 @@
 
 .ipynb_checkpoints/address_elements_extraction-checkpoint.ipynb
+
+.DS_Store
+
+.ipynb_checkpoints/eda-visualizations-checkpoint.ipynb
+
+.~eda-visualizations.ipynb
